@@ -1,5 +1,12 @@
 [![run with conda](http://img.shields.io/badge/run%20with-conda-3EB049?labelColor=000000&logo=anaconda)](https://anaconda.org/bioconda/hsdecipher)
-
+[![run with conda](http://img.shields.io/badge/run%20with-conda-3EB049?labelColor=000000&logo=anaconda)](https://anaconda.org/bioconda/hsdecipher)
+![any_text-you_like-blue](https://anaconda.org/bioconda/hsdecipher/badges/downloads.svg)
+![any_text-you_like-blue](https://anaconda.org/bioconda/hsdecipher/badges/version.svg)
+![any_text-you_like-blue](https://anaconda.org/bioconda/hsdecipher/badges/latest_release_date.svg)
+![any_text-you_like-blue](https://anaconda.org/bioconda/hsdecipher/badges/latest_release_relative_date.svg)
+![any_text-you_like-blue](https://anaconda.org/bioconda/hsdecipher/badges/platforms.svg)
+![any_text-you_like-blue](https://anaconda.org/bioconda/hsdecipher/badges/license.svg)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/zx0223winner/hsdecipher/total)
 ### 1. HSDecipher
 The pipeline has the custom Python scripts packages for the downstream comparative genomics analysis of highly similar duplicate genes
 
